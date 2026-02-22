@@ -138,7 +138,6 @@ yathik = {
 </div>
 
 ---
----
 
 <div align="center">
 
