@@ -127,22 +127,20 @@ yathik = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yathik-2622&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yathik-2622&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathik-2622&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yathik-2622&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yathik-2622&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
+<img src="https://streak-stats.demolab.com?user=yathik-2622&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-
+ <img src="./RyStudios_logo.png" width="100px" />
 ◈ &nbsp; RyStudios — Where Data Meets Design &nbsp; ◈
 <br/>
 <sub>Building real AI apps, one project at a time.</sub>
