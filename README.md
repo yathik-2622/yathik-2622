@@ -123,33 +123,19 @@ yathik = {
 ```
 
 ---
-
 ## ◆ GitHub Stats
 
 <div align="center">
 
-![Yathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yathik-2622&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yathik-2622&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yathik-2622&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yathik-2622&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathik-2622&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
-
-## ◆ GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yathik-2622&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathik-2622&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=yathik-2622&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=yathik-2622&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 ---
@@ -161,7 +147,9 @@ yathik = {
 <sub>Building real AI apps, one project at a time.</sub>
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yathik-2622&color=63b3ed&style=flat-square)
-<img src="https://komarev.com/ghpvc/?username=yathik-2622&style=flat-square&color=63b3ed&label=PROFILE+VIEWS" />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yathik-2622&style=for-the-badge&color=63b3ed&label=PROFILE+VIEWS" />
+</div>
 
 </div>
