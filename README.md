@@ -42,14 +42,14 @@ yathik = {
 ▸  TCS AI Hackathon Winner        Sep 2025  —  Explainable Spam & Phishing Detection Agent
 ▸  OnTheSpot Award                Jul 2025  —  Billing Prediction Project via TCS Gems
 ▸  tcsAI Spark Recognition        Aug 2025  —  TCS Hackathon Appreciation Token
-▸  Silent Soldier Award                     —  Skill Dunia Edutech
+▸  Silent Soldier Award           Oct 2023  —  Skill Dunia Edutech
 ```
 
 ---
 
 ## ◆ Notable Projects @ TCS
 ```
-◈  Knowledge Builder        —  GenAI + Knowledge Graph · LangGraph · Neo4j · CosmosDB
+◈  Knowledge Builder        —  GenAI + Knowledge Graph · LangGraph · Neo4j/Gremlin · CosmosDB
 ◈  MCP Multi-Agent System   —  Autonomous Agent Collaboration via Model Context Protocol
 ◈  Humana Healthcare        —  Embedding Recommendations · Billing Prediction · Vector Search
 ◈  Spam/Phish Detection     —  Explainable AI Agent · Risk Scoring · Hackathon Winner
@@ -69,6 +69,14 @@ yathik = {
 ---
 
 ## ◆ Tech Stack
+
+**Agentic Frameworks**
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Protocol-63B3ED?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-Protocol-9B8EF7?style=flat-square)
 
 **Generative AI & LLMs**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -128,6 +136,22 @@ yathik = {
 
 </div>
 
+
+## ◆ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yathik-2622&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathik-2622&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=yathik-2622&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
 
 <div align="center">
@@ -138,5 +162,6 @@ yathik = {
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yathik-2622&color=63b3ed&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=yathik-2622&style=flat-square&color=63b3ed&label=PROFILE+VIEWS" />
 
 </div>
