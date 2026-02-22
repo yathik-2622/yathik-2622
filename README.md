@@ -138,17 +138,22 @@ yathik = {
 </div>
 
 ---
+---
 
 <div align="center">
- <img src="./RyStudios_logo.png" width="100px" />
-◈ &nbsp; RyStudios — Where Data Meets Design &nbsp; ◈
-<br/>
-<sub>Building real AI apps, one project at a time.</sub>
+
+<img src="./RyStudios_logo.png" width="100px" />
+
 <br/><br/>
 
+◈ &nbsp; RyStudios — Where Data Meets Design &nbsp; ◈
 
-<div align="center">
+<br/>
+
+<sub>Building real AI apps, one project at a time.</sub>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=yathik-2622&style=for-the-badge&color=63b3ed&label=PROFILE+VIEWS" />
-</div>
 
 </div>
