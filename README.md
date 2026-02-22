@@ -141,18 +141,15 @@ yathik = {
 
 <div align="center">
 
-<img src="./RyStudios_logo.png" width="180px" />
+<img src="./RyStudios_logo.png" width="220px" />
 
 <br/>
 
 ◈ &nbsp; RyStudios — Where Data Meets Design &nbsp; ◈
 
 <br/>
-
 <sub>Building real AI apps, one project at a time.</sub>
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=yathik-2622&style=for-the-badge&color=63b3ed&label=PROFILE+VIEWS" />
 
 </div>
