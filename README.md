@@ -25,7 +25,7 @@ Hyderabad, India &nbsp;·&nbsp;
 yathik = {
     "role"        : "Senior AI Engineer @ Tiger Analytics",
     "speciality"  : "Agentic AI & Enterprise AI Platforms",
-    "building".   : [
+    "building"    : [
                     "RyVerse",
                     "Agentic AI Platforms",
                     "Enterprise AI Solutions"
