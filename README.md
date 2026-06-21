@@ -176,13 +176,14 @@ yathik = {
 ---
 
 ## ◆ Certifications
-```
-▸  Complete Machine Learning with Python       —  Udemy
-▸  Generative AI Foundational                  —  Udemy
-▸  LangChain for LLM Application Development  —  DeepLearning.AI
-▸  Advanced Retrieval for AI with Chroma       —  DeepLearning.AI
-▸  Python Certification                        —  HackerRank
-▸  AIML Internship                             —  Eduskills x AWS
+
+```text
+▸  LangChain for LLM Application Development   — DeepLearning.AI
+▸  Advanced Retrieval for AI with Chroma       — DeepLearning.AI
+▸  Generative AI Foundational                  — Udemy
+▸  Complete Machine Learning with Python       — Udemy
+▸  Python Certification                        — HackerRank
+▸  AIML Internship                             — Eduskills x AWS
 ```
 
 ---
