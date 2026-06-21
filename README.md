@@ -20,22 +20,32 @@ Hyderabad, India &nbsp;·&nbsp;
 ---
 
 ## ◆ About Me
+
 ```python
 yathik = {
-    "role"        : "AI/ML Engineer @ Tata Consultancy Services",
-    "experience"  : "2.5+ years",
-    "domain"      : "Healthcare AI CoE | Agentic & GenAI Systems",
+    "role"        : "Senior AI Engineer @ Tiger Analytics",
+    "speciality"  : "Agentic AI & Enterprise AI Platforms",
+    "building"    : [
+                     "RyVerse",
+                     "AIgers Universe",
+                     "Enterprise AI Solutions"
+                    ],
     "focus"       : [
-                     "Agentic AI", "LLMs", "RAG/CAG",
-                     "MCP", "LangGraph", "LLMOps"
+                     "Multi-Agent Systems",
+                     "MCP",
+                     "A2A",
+                     "Knowledge Graphs",
+                     "RAG / Graph RAG / CAG",
+                     "LangGraph"
                     ],
-    "achievement" : "TCS AI Hackathon Winner — Sep 2025",
-    "awards"      : [
-                     "OnTheSpot Award — TCS Gems Jul 2025",
-                     "Silent Soldier Award — Skill Dunia",
-                     "tcsAI Spark Recognition — Aug 2025"
+    "experience"  : [
+                     "Healthcare AI",
+                     "Knowledge Systems",
+                     "Metadata Intelligence",
+                     "Enterprise Automation"
                     ],
-    "brand"       : "RyStudios — Where Data Meets Design",
+    "achievement" : "TCS AI Hackathon Winner 2025",
+    "mission"     : "Building practical AI systems that solve real-world problems",
     "location"    : "Hyderabad, India"
 }
 ```
