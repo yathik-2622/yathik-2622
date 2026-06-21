@@ -53,12 +53,18 @@ yathik = {
 ---
 
 ## ◆ Achievements
-```
-▸  TCS AI Hackathon Winner        Sep 2025  —  Explainable Spam & Phishing Detection Agent
-▸  OnTheSpot Award                Jul 2025  —  Billing Prediction Project via TCS Gems
-▸  tcsAI Spark Recognition        Aug 2025  —  TCS Hackathon Appreciation Token
-▸  Silent Soldier Award           Oct 2023  —  Skill Dunia Edutech
-```
+
+🏆 **TCS AI Hackathon Winner (2025)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Built an Explainable AI-powered Phishing & Spam Detection Agent with autonomous risk scoring and threat classification.
+
+🏅 **TCS Gems – On-The-Spot Award (2025)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Recognized for contribution to enterprise AI initiatives and business impact.
+
+⭐ **tcsAI Spark Recognition (2025)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Awarded during TCS AI Hackathon for innovation and technical excellence.
+
+🎖️ **Silent Soldier Award (2023)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Recognized for exceptional contribution and dedication at Skill Dunia.
 
 ---
 
