@@ -68,14 +68,40 @@ yathik = {
 
 ---
 
-## ◆ Notable Projects @ TCS
-```
-◈  Knowledge Builder        —  GenAI + Knowledge Graph · LangGraph · Neo4j/Gremlin · CosmosDB
-◈  MCP Multi-Agent System   —  Autonomous Agent Collaboration via Model Context Protocol
-◈  Humana Healthcare        —  Embedding Recommendations · Billing Prediction · Vector Search
-◈  Spam/Phish Detection     —  Explainable AI Agent · Risk Scoring · Hackathon Winner
-◈  SmartPot AI + IoT        —  CNN Plant Health System · Sensor Data Analytics
-◈  Tesla Stock Predictor    —  Regression Model · R² = 0.9994
+## ◆ Flagship Projects
+
+```text
+◈ AIgers Universe | Tiger Analytics
+   Enterprise Agentic AI Platform featuring Workflow Builder,
+   Agent Registry, Agent Marketplace, Knowledge Base,
+   Knowledge Graph, Governance, Observability and HITL execution.
+
+◈ ADM (Assisted Data Modeling) | Tiger Analytics
+   Enterprise AI platform for metadata intelligence,
+   source-to-target mapping, relationship discovery,
+   surrogate key generation and AI-assisted data modeling.
+
+◈ HCKB (Healthcare Knowledge Builder) | TCS
+   Large-scale healthcare knowledge platform supporting
+   document intelligence, contextual retrieval,
+   knowledge discovery and AI-assisted reasoning
+   across 6000+ pages of enterprise content.
+
+◈ AI-Led Database Modernization Platform | TCS
+   Autonomous modernization system enabling schema analysis,
+   metadata extraction, relationship discovery,
+   migration planning and explainable recommendations
+   for MySQL to PostgreSQL transformation.
+
+◈ Cortex MCP Agent | RyVerse
+   MCP-powered agent framework enabling tool integration,
+   context sharing, orchestration workflows
+   and intelligent task execution.
+
+◈ AI-Powered Phishing & Spam Detection Agent | TCS
+   TCS AI Hackathon winning solution featuring
+   explainable AI, risk scoring, threat classification
+   and mitigation recommendations.
 ```
 
 ---
