@@ -6,9 +6,14 @@
 
 <div align="center">
 
-◈ AI/ML Engineer @ Tata Consultancy Services ◈ RyStudios Founder
+◈ Senior AI Engineer @ Tiger Analytics ◈ Building RyVerse
+
 <br/>
-Hyderabad, India &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yat-hik-1b93a8268) &nbsp;·&nbsp; [Portfolio](https://rystudios-iris.vercel.app)
+
+Hyderabad, India &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/yat-hik-1b93a8268">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://ryverse.dev">RyVerse</a>
 
 </div>
 
