@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=63B3ED&center=true&vCenter=true&width=1000&height=80&lines=Yathik;Building+RyVerse;Senior+AI+Engineer+%40+Tiger+Analytics;Agentic+AI+%7C+Multi-Agent+Systems;MCP+%7C+A2A+%7C+Knowledge+Graphs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=63B3ED&center=true&vCenter=true&width=1000&height=80&lines=Yathik;Building+RyVerse;Senior+AI+Engineer+%40+Tiger+Analytics;Agentic+AI+%7C+Multi-Agent+Systems;MCP+%7C+A2A+%7C+Enterprise+AI" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,10 +25,10 @@ Hyderabad, India &nbsp;·&nbsp;
 yathik = {
     "role"        : "Senior AI Engineer @ Tiger Analytics",
     "speciality"  : "Agentic AI & Enterprise AI Platforms",
-    "building"    : [
-                     "RyVerse",
-                     "AIgers Universe",
-                     "Enterprise AI Solutions"
+    "building".   : [
+                    "RyVerse",
+                    "Agentic AI Platforms",
+                    "Enterprise AI Solutions"
                     ],
     "focus"       : [
                      "Multi-Agent Systems",
