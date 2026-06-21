@@ -209,13 +209,13 @@ yathik = {
 
 <br/>
 
-◈ &nbsp; RyStudios — Where Data Meets Design &nbsp; ◈
+◈ &nbsp; RyVerse &nbsp; ◈
 
 <br/>
 
-<sub>Building real AI apps, one project at a time.</sub>
+<sub>Where Intelligence Meets Execution.</sub>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=yathik-2622&style=for-the-badge&color=63b3ed&label=PROFILE+VIEWS" />
 
