@@ -106,11 +106,27 @@ yathik = {
 
 ---
 
-## ◆ RyStudios Portfolio
-```
-◈  01  Iris Visual AI     —  FastAPI + Plotly.js    →  rystudios-iris.vercel.app
-◈  02  Iris Streamlit     —  Streamlit + Sklearn    →  rystudios-iris.streamlit.app
-◈  03  Coming Soon        —  ——————————————————————  →  ——
+## ◆ RyVerse
+
+```text
+◈ 01  RyVerse
+      Building intelligent systems, enterprise AI platforms,
+      agentic workflows and next-generation AI applications.
+
+◈ 02  Nexus Agent
+      Experimental Agentic AI platform exploring autonomous
+      workflows, contextual reasoning and intelligent task execution.
+      → https://rystudios-nexus-agent.streamlit.app/
+
+◈ 03  Iris Visual AI
+      Analytics and decision intelligence platform focused on
+      interactive visualization and data-driven insights.
+      → https://rystudios-iris.vercel.app/
+
+◈ 04  Iris Streamlit
+      Rapid experimentation environment for machine learning,
+      AI prototypes and applied AI research.
+      → https://rystudios-iris.streamlit.app/
 ```
 
 ---
